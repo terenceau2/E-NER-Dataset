@@ -1,3 +1,6 @@
+#LN Dataset
+
+
 The dataset contains 52 filings from the US SEC EDGAR database. The named entity tags are hand annotated. 
 
 The named entities are classified into 7 classes: Person, Court, Business, Government, Location, Legislation/Act, Miscellaneous (and the class "Outside" for non-named entities).
