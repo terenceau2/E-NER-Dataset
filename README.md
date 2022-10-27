@@ -1,4 +1,4 @@
-# LN Dataset
+# E-NER Dataset
 
 
 The dataset contains 52 filings from the US SEC EDGAR database. The named entity tags are hand annotated. 
