@@ -9,6 +9,7 @@ The "all.csv" contains the annotated filings, with 1 token on each line, followe
 The "edgar_4.csv" contains the same data as "all.csv", but there are only 4 named entity classes: Person, Organization, Location and Miscellaneous. (Court, Business and Government combined into Organization, and Legislation/Act and Miscellaneous combined into Miscellaneous)
 
 
+arXiv link to the paper: https://arxiv.org/abs/2212.09306
 
 
 ------------------------------------------------------------------------------------------------------------
